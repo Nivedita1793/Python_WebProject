@@ -9,7 +9,7 @@ This is a python project to create website which display immigrants' data. It ha
 
 
 **3.Website:**
-Here we have two different source code file 
+We have used `flask` module for creation of website. This project contains two different source code file 
 
 **1. app1**
 
